@@ -21,6 +21,7 @@ Welcome to the repository! Here we curate Web3 projects aligned with libertarian
 | Blockchain Domains        | [Unstoppable Domains](https://unstoppabledomains.com/)| Blockchain-based domain names, user-owned and censorship-resistant.| Blockchain           | No renewal fees, user owned        |
 | Decentralized Marketplace | [OpenBazaar](https://openbazaar.org/)              | Peer-to-peer e-commerce platform without central authority.       | Go, IPFS, Bitcoin    | No middleman, censorship-free      |
 | Communication             | [Signal](https://signal.org/)                      | Encrypted, open-source messenger (partially decentralized).       | Java, Rust           | Open-source, privacy focused       |
+| ZKP-based Blockchian      | [Psy Protoocl](https://psy.xyz/)                   | Encrypted, open-source messenger (partially decentralized).       | TypeScript, Rust       | Open-source, privacy focused       |
 
 ## How to Contribute
 
