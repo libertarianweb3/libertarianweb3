@@ -26,13 +26,7 @@ Welcome to the repository! Here we curate Web3 projects aligned with libertarian
 
 - Suggest new projects by opening an Issue or Pull Request.
 - Help improve descriptions, add new categories, or update project info.
-- See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 
-## Related Resources
-
-- [Libertarianism and Blockchain Technology](https://example.com/article1)
-- [Web3 Fundamentals](https://example.com/article2)
-- [Decentralized Governance Models](https://example.com/article3)
 
 ## License
 
